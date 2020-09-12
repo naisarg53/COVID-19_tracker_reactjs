@@ -1,0 +1,7 @@
+
+
+npx create-react-app ./
+
+npm install --save axios react-chartjs-2 react-countup classnames
+
+npm install --save chart.js
