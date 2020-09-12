@@ -10,7 +10,7 @@ https://naisarg53.github.io/COVID-19_tracker_reactjs/
 Install
 Some basic Git commands are:
 
-$ git clone https://github.com/naisarg53/ecommerce-mern-web-app.git
+$ git clone https://github.com/naisarg53/COVID-19_tracker_reactjs.git
 $ cd client
 $ npm install
 
